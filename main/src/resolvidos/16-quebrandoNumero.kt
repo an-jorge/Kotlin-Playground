@@ -1,4 +1,4 @@
-package desafios.iniciante
+package resolvidos
 
 /*
 16 — Quebrando um número
