@@ -1,4 +1,4 @@
-package desafios.iniciante
+package desafios
 
 /*
 15 – Aluguel de Carros
