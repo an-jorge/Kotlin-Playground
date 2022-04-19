@@ -1,4 +1,4 @@
-package desafios
+package desafios.resolvidos_Iniciante
 
 /*
 12 — Calculando Descontos
