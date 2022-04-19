@@ -2,10 +2,8 @@
 
 
 
-# 19 – Sorteando um item da Lista
+# 20 – Sorteando uma ordem
 
-**Exercício Python** 019: Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
+Exercício Python 020: O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos.
 
-Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
-
-
+Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
