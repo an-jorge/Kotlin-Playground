@@ -2,10 +2,8 @@
 
 
 
-
-
 ### 08 — Conversor de Medidas
 
-**Exercício Python 008**: Escreva um programa que leia um valor em metros, e o exiba convertido em centímetros e milímetros.
+**Exercício 008**: Escreva um programa que leia um valor em metros, e o exiba convertido em centímetros e milímetros.
 
 
