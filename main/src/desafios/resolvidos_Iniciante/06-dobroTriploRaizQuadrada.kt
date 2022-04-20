@@ -1,4 +1,4 @@
-package desafios.iniciante
+package desafios.resolvidos_Iniciante
 
 import kotlin.math.sqrt
 

@@ -1,4 +1,4 @@
-package desafios.iniciante
+package desafios.resolvidos_Iniciante
 
 /*
 13 — Reajuste Salarial

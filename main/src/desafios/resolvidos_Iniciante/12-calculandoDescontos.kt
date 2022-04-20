@@ -1,4 +1,4 @@
-package desafios.iniciante
+package desafios.resolvidos_Iniciante
 
 /*
 12 — Calculando Descontos
@@ -10,6 +10,7 @@ fun main() {
     val article = 100
     val discount = 50
     val sum = article * discount / 100
+
     println(
         """
         The article cost $article kz with $discount off
