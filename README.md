@@ -32,7 +32,7 @@ Se você quiser se juntar a mim, fique à vontade, mais se quiser ter sucesso em
   
 <div align="center">
  
-  [<p> Guia para contribuições </p>](https://github.com/an-jorge/Learning-Kotlin/blob/master/contributions.md)
+  [<p> Guia para contribuições </p>](https://github.com/an-jorge/Kotlin-Playground/blob/main/contribution.md)
 
   [<p> Currículo de Kotlin para iniciantes </p>](https://docs.google.com/document/d/1XIJaV3zhn-tJhDc_6Kr00lmTo5zCBuES3Yt67wX752M/edit#heading=h.bu3otrsctru2)
   
