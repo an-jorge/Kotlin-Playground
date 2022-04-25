@@ -31,27 +31,20 @@ Algumas outras observações são:
 - Deve-se seguir a formatação markdown (não obrigatório)
 
 
-
 ## Estilo dos commits
 
-- Você corrigiu algum erro (na descrição do exercício ou código)
-  - **ExFixed** (emoji do commit não obrigatónio :beetle:)
+- **Fixed :bug:** <br>
+você corrigiu algum erro (na descrição do exercício ou código) 
     
+- **New :inbox_tray:** <br> 
+você adicionou um novo exercício 
     
-- Você adicionou um novo exercício
-  - **NewEx** (emoji do commit não obrigatónio :inbox_tray:)
-    
-    
-
-- Você encontrou um erro ou adicionou novas informações
-  - **Docs** (emoji do commit não obrigatónio 📝)  
+- **Docs :memo:** <br>
+você encontrou um erro ou adicionou novas informações 
+   
+- **Style :art:** <br> 
+você encontrou algo fora do padrão definido
   
-  
-- Você encontrou algo fora do padrão definido
-  - **Style** (emoji do commit não obrigatónio :art:)
-  
-  
-- Você resolveu um exercício
-  - **ExDone** (emoji do commit não obrigatónio :white_check_mark:)
+- **Done :white_check_mark:** <br> você resolveu um exercício
 
 
