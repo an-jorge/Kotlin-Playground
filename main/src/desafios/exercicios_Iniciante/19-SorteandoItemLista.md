@@ -1,8 +1,6 @@
 
 
-
-
-# 20 – Sorteando uma ordem
+# 20 — Sorteando uma ordem
 
 Exercício 020: O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos.
 
